@@ -220,7 +220,7 @@ class _DataUsedState extends State<DataUsed> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Text(
-                    "Label: Grape Leaf Blight (Isariopsis Leaf Spot)",
+                    "Label: Grape Leaf Blight",
                     style: TextStyle(
                       color: Colors.white70,
                       fontSize: 18,
