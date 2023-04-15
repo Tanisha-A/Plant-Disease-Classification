@@ -131,10 +131,10 @@ class _ModelArchitectureState extends State<ModelArchitecture> {
               height: 15,
             ),
             Container(
-              width: 375,
-              height: 375,
+              width: 475,
+              height: 475,
               child: Image(
-                image: AssetImage("images/model_architecture.png"),
+                image: AssetImage("images/model_architecture.jpg"),
               ),
             ),
             SizedBox(
