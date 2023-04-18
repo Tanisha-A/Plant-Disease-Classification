@@ -36,7 +36,7 @@ Results of tuning MobileNetV2 with Optuna:
 
 Model Accuracy
 
-![image](https://user-images.githubusercontent.com/75483881/232674386-01143965-dc9e-4c52-b478-c5324d922505.png)
+![image](https://user-images.githubusercontent.com/75483881/232721545-021a15c1-9043-4a7a-8614-c456cf50cb00.png)
 
 Model Loss
 
