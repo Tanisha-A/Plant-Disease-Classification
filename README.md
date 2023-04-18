@@ -40,7 +40,7 @@ Model Accuracy
 
 Model Loss
 
-![image](https://user-images.githubusercontent.com/75483881/232674433-25ef49e7-ab62-42bf-8ece-584744f9ab6b.png)
+![image](https://user-images.githubusercontent.com/75483881/232722353-111a1a98-f474-428c-a89c-25264dd90fea.png)
 
 ### Contributors:
  - Uchit Mody: 16010120030
