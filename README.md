@@ -34,6 +34,13 @@ Results of tuning MobileNetV2 with Optuna:
 | 4                      | 0.85866	| 93.26091%	    | 0.88208	| 0.85656	| 0.27409 |
 | 5                      | 0.90424	| 97.20125%	    | 0.91984	| 0.90075	| 0.08438 |
 
+Model Accuracy
+
+![image](https://user-images.githubusercontent.com/75483881/232674386-01143965-dc9e-4c52-b478-c5324d922505.png)
+
+Model Loss
+
+![image](https://user-images.githubusercontent.com/75483881/232674433-25ef49e7-ab62-42bf-8ece-584744f9ab6b.png)
 
 ### Contributors:
  - Uchit Mody: 16010120030
