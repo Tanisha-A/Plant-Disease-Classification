@@ -1,5 +1,13 @@
 # Mini Project: Plant Disease Classification
 
+### Problem Statement:
+
+Plant Disease Detection using deep learning with hyperparameter optimisation of the neural network and a sufficient number of classes.
+
+### Objectives of the project:
+
+The objective of the project is to use deep learning to classify different plant diseases. Deep learning techniques are to be used for the diagnosis of diseases by inspecting leaf images. Deep learning by using digital image processing is to be used for plant disease image classification tasks. The deep learning approach employs a CNN for image classification. Machine learning and deep learning algorithms are to be employed to increase the recognition rate and the accuracy of the results. Hyperparameter tuning of the neural network will be used to select the best performing network.
+
 ### Results:
 
 Initial models trained for 5 epochs:
