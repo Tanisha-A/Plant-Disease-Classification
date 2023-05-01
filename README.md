@@ -50,6 +50,14 @@ Model Loss
 
 ![image](https://user-images.githubusercontent.com/75483881/232722353-111a1a98-f474-428c-a89c-25264dd90fea.png)
 
+Evaluation on Test Images:
+
+![image](https://user-images.githubusercontent.com/75483881/235521866-3ad39ee1-65d5-43ba-ba4c-36f919089602.png)
+
+![image](https://user-images.githubusercontent.com/75483881/235521890-3a406bf9-baed-4a0f-9dd5-9c7dc85481cf.png)
+
+![image](https://user-images.githubusercontent.com/75483881/235521915-7b8fc06b-3a28-4d7c-8e4a-798c44d1f6e9.png)
+
 ### Contributors:
  - Uchit Mody: 16010120030
  - Rahil Parikh: 16010120037
