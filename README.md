@@ -58,7 +58,4 @@ Evaluation on Test Images:
 
 ![image](https://user-images.githubusercontent.com/75483881/235521915-7b8fc06b-3a28-4d7c-8e4a-798c44d1f6e9.png)
 
-### Contributors:
- - Uchit Mody: 16010120030
- - Rahil Parikh: 16010120037
- - Jai Rajani: 16010120041
+
