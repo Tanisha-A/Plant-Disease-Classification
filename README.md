@@ -1,4 +1,4 @@
-# Mini Project: Plant Disease Classificatio
+# Mini Project: Plant Disease Classification
 
 ### Problem Statement:
 
